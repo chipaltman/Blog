@@ -1,11 +1,7 @@
 ---
 layout: post
-title: Gnome vs. Plasma
+title: Gnome Shell vs. KDE Plasma
 ---
-
-# Gnome Shell vs KDE Plasma
-
-### My Thoughts Regarding Gnome Shell and KDE Plasma
 
 I’m the guy who switched to Linux because he wanted to customize everything. I tried it maybe fifteen years ago (dual booting Ubuntu with Windows). Technically it “worked” but I didn’t know what I was doing so the result was a big ole pile of fail. I still barely know what I’m doing, but Linux distributions have gotten a lot more user friendly and these days I can find answers to all my questions online.
 
