@@ -1,4 +1,9 @@
-# I Called System76
+---
+layout: post
+title: I Called System76
+published: true
+---
+
 I called System76 today because I want to buy one of their computers, but I don't know if now is a good time. I tried to research their hardware model update schedule. I tried asking around on the internet. Neither of these strategies was fruitful. Then this happened, a friendly friend who goes by [@hund](https://linuxrocks.online/@hund) on [linuxrocks.online](linuxrocks.online) said, "Why not ask them directly? :)"
 
 ## Challenge Accepted
