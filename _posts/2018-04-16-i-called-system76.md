@@ -21,7 +21,7 @@ model.
 
 	**A new Kudu with an 8th generation processor should appear Summer 2018, maybe in June.**
 
-1. Let's say, hypothetically, I bought a computer from System76 and decided to install Arch Linux on it. If I find myself completely stumped regarding some problem and the Arch community snubs be because I'm a noob can I call you guys with questions?
+1. Let's say, hypothetically, I bought a computer from System76 and decided to install Arch Linux on it. If I find myself completely stumped regarding some problem and the Arch community snubs me because I'm a noob can I call you guys with questions?
 
 	**Nope. If you call us we will make fun of you too.**
 
