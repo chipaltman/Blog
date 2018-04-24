@@ -1,0 +1,2 @@
+## African-American Engish is Not Standard English with Mistakes
+I teach elementary musci, but before that I studied Linguistics. it's the science of Language. I tell my students school has "ELA" and that's English Language *Arts*. Well, Linguistics for us is ELS :---: English Language Science. 
